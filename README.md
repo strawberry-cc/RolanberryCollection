@@ -1,4 +1,12 @@
-## RollingBattery
+## RolanberryCollection
+
+A Repository of plugins I have created for FINAL FANTASY XIV Online.
+
+---
+
+## Plugins
+
+### RollingBattery
 
 Tracks your **Machinist (MCH) battery usage** during combat.
 
