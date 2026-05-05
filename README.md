@@ -7,6 +7,7 @@ A repository of plugins I have created for FINAL FANTASY XIV Online.
 ## Plugins
 
 ### RollingBattery
+
 ![RollingBattery Preview](https://github.com/strawberry-cc/rollingbattery/blob/master/Data/icon.png)
 
 Tracks your **Machinist (MCH) battery usage** during combat.
