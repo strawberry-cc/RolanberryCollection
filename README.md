@@ -1,6 +1,6 @@
 ## RolanberryCollection
 
-A Repository of plugins I have created for FINAL FANTASY XIV Online.
+A repository of plugins I have created for FINAL FANTASY XIV Online.
 
 ---
 
